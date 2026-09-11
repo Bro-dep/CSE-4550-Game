@@ -2057,3 +2057,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.11-20.21.18:300][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 952.064087
 [2026.09.11-20.21.19:300][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.11-20.21.19:300][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 952.732300, Update Interval: 327.446503
+[2026.09.11-20.27.01:301][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1295.065308
+[2026.09.11-20.27.02:301][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.11-20.27.02:302][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1295.731934, Update Interval: 330.751678
+[2026.09.11-20.32.42:649][770]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/Common/MegaLights_16.svg'. File could not be found
+[2026.09.11-20.32.52:807][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1646.571411
+[2026.09.11-20.32.52:925][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.11-20.32.52:925][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1646.679443, Update Interval: 340.636017

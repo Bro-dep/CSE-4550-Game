@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\variant_timetrial\\timetrialgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\x64\\game4550editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game4550\\definitions.game4550.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\variant_timetrial\\timetrialgamemode.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\unrealeditor\\inc\\game4550\\uht\\timetrialgamemode.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\variant_timetrial\\timetrialtrackgate.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\unrealeditor\\inc\\game4550\\uht\\timetrialtrackgate.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstart.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\engine\\navigationobjectbase.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationobjectbase.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstart.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

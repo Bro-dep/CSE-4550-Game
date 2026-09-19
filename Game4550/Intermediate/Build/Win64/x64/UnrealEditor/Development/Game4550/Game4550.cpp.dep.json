@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\game4550.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\x64\\game4550editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game4550\\definitions.game4550.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\game4550.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

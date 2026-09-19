@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\variant_timetrial\\timetrialtrackgate.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\x64\\game4550editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game4550\\definitions.game4550.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\variant_timetrial\\timetrialtrackgate.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\unrealeditor\\inc\\game4550\\uht\\timetrialtrackgate.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "e:\\epicgames\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\epicgames\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\source\\game4550\\variant_timetrial\\timetrialplayercontroller.h",
+            "c:\\users\\miner\\documents\\github\\cse-4550-game\\game4550\\intermediate\\build\\win64\\unrealeditor\\inc\\game4550\\uht\\timetrialplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

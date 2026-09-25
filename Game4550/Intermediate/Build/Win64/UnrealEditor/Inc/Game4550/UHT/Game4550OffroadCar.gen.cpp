@@ -196,14 +196,14 @@ AGame4550OffroadCar::~AGame4550OffroadCar() {}
 #ifdef UHT_STATICS
 #error UHT_STATICS already defined
 #endif
-#define UHT_STATICS Z_CompiledInDeferFile_FID_Game4550_Source_Game4550_OffroadCar_Game4550OffroadCar_h__Script_Game4550_Statics
+#define UHT_STATICS Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_OffroadCar_Game4550OffroadCar_h__Script_Game4550_Statics
 struct UHT_STATICS
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AGame4550OffroadCar, TEXT("AGame4550OffroadCar"), &Z_Registration_Info_UClass_AGame4550OffroadCar, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGame4550OffroadCar), 3075263050U) },
 	};
 }; // UHT_STATICS 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game4550_Source_Game4550_OffroadCar_Game4550OffroadCar_h__Script_Game4550_56db43c9df9c2f528e6a392040a21bf2ca35d180{
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_OffroadCar_Game4550OffroadCar_h__Script_Game4550_56db43c9df9c2f528e6a392040a21bf2ca35d180{
 	TEXT("/Script/Game4550"),
 	UHT_STATICS::ClassInfo, UE_ARRAY_COUNT(UHT_STATICS::ClassInfo),
 	nullptr, 0,

@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_ATimeTrialTrackGate_Statics;
 GAME4550_API UClass* Z_Construct_UClass_ATimeTrialTrackGate(ETypeConstructPhase);
 
-#define FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	friend struct ::Z_Construct_UClass_ATimeTrialTrackGate_Statics; \
 	friend GAME4550_API UClass* ::Z_Construct_UClass_ATimeTrialTrackGate(ETypeConstructPhase); \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(ATimeTrialTrackGate)
 
 
-#define FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ATimeTrialTrackGate(ATimeTrialTrackGate&&) = delete; \
 	ATimeTrialTrackGate(const ATimeTrialTrackGate&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~ATimeTrialTrackGate();
 
 
-#define FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_15_PROLOG
-#define FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_GENERATED_BODY \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_15_PROLOG
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_INCLASS_NO_PURE_DECLS \
-	FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_ENHANCED_CONSTRUCTORS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_INCLASS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class ATimeTrialTrackGate;
 // ********** End Class ATimeTrialTrackGate ********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h
+#define CURRENT_FILE_ID FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialTrackGate_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

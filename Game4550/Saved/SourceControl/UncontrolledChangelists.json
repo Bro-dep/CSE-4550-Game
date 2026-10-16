@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_KartTest.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/D/T2/UN9LKQW8ON38MYZT5RP7D6.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Maps/VehicleBasic.umap",
 				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
 				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_Kart.uasset",
 				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/GM_Kart.uasset",

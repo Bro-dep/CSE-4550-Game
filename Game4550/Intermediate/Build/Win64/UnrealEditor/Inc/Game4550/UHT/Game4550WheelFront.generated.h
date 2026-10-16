@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_UGame4550WheelFront_Statics;
 GAME4550_API UClass* Z_Construct_UClass_UGame4550WheelFront(ETypeConstructPhase);
 
-#define FID_Game4550_Source_Game4550_Game4550WheelFront_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	friend struct ::Z_Construct_UClass_UGame4550WheelFront_Statics; \
 	friend GAME4550_API UClass* ::Z_Construct_UClass_UGame4550WheelFront(ETypeConstructPhase); \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UGame4550WheelFront)
 
 
-#define FID_Game4550_Source_Game4550_Game4550WheelFront_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UGame4550WheelFront(UGame4550WheelFront&&) = delete; \
 	UGame4550WheelFront(const UGame4550WheelFront&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UGame4550WheelFront();
 
 
-#define FID_Game4550_Source_Game4550_Game4550WheelFront_h_12_PROLOG
-#define FID_Game4550_Source_Game4550_Game4550WheelFront_h_15_GENERATED_BODY \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h_12_PROLOG
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Game4550_Source_Game4550_Game4550WheelFront_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Game4550_Source_Game4550_Game4550WheelFront_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class UGame4550WheelFront;
 // ********** End Class UGame4550WheelFront ********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Game4550_Source_Game4550_Game4550WheelFront_h
+#define CURRENT_FILE_ID FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550WheelFront_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

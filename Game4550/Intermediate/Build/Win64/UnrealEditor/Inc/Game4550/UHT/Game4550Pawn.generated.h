@@ -18,7 +18,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AGame4550Pawn ************************************************************
-#define FID_Game4550_Source_Game4550_Game4550Pawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execFlippedCheck); \
 	DECLARE_FUNCTION(execDoResetVehicle); \
 	DECLARE_FUNCTION(execDoToggleCamera); \
@@ -32,11 +32,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execDoSteering);
 
 
-#define FID_Game4550_Source_Game4550_Game4550Pawn_h_25_CALLBACK_WRAPPERS
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_AGame4550Pawn_Statics;
 GAME4550_API UClass* Z_Construct_UClass_AGame4550Pawn(ETypeConstructPhase);
 
-#define FID_Game4550_Source_Game4550_Game4550Pawn_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	friend struct ::Z_Construct_UClass_AGame4550Pawn_Statics; \
 	friend GAME4550_API UClass* ::Z_Construct_UClass_AGame4550Pawn(ETypeConstructPhase); \
@@ -45,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(AGame4550Pawn)
 
 
-#define FID_Game4550_Source_Game4550_Game4550Pawn_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AGame4550Pawn(AGame4550Pawn&&) = delete; \
 	AGame4550Pawn(const AGame4550Pawn&) = delete; \
@@ -55,14 +55,14 @@ public: \
 	NO_API virtual ~AGame4550Pawn();
 
 
-#define FID_Game4550_Source_Game4550_Game4550Pawn_h_22_PROLOG
-#define FID_Game4550_Source_Game4550_Game4550Pawn_h_25_GENERATED_BODY \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_22_PROLOG
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Game4550_Source_Game4550_Game4550Pawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Game4550_Source_Game4550_Game4550Pawn_h_25_CALLBACK_WRAPPERS \
-	FID_Game4550_Source_Game4550_Game4550Pawn_h_25_INCLASS_NO_PURE_DECLS \
-	FID_Game4550_Source_Game4550_Game4550Pawn_h_25_ENHANCED_CONSTRUCTORS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_CALLBACK_WRAPPERS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_INCLASS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -72,6 +72,6 @@ class AGame4550Pawn;
 // ********** End Class AGame4550Pawn **************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Game4550_Source_Game4550_Game4550Pawn_h
+#define CURRENT_FILE_ID FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550Pawn_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

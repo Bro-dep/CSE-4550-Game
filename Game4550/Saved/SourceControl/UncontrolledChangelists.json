@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_Kart.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/GM_Kart.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Kart_Accelerate.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IMC_Kart.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Maps/VehicleBasic.umap",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Kart_Steer.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_HoverKart.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/D/E4/C3QVWNPHELJ6N8HFQQ0MQL.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/F/2B/P3K8F61TNAX5YJ9MT3BWDO.uasset",
+				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Accelerate.uasset"
+			]
+		}
+	]
+}

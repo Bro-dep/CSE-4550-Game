@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/WBP_MainMenu.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/L_MainMenu.umap",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/GM_MainMenu.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/textures/samplepicforunreal.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/WBP_OptionSwitcher.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/WBP_OptionsMenu.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/audio/music/testingmusi.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/audio/SFX/iepmusic-speed-racing-music-615206.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/audio/MasterSoundCLassMix.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/SaveGame/Settings.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/SaveGame/SaveSettings.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/audio/music/MasterAudioSoundCLass.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/audio/SFX/MasterSFXclass.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/WBP_PauseMenu.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/audio/SFX/floraphonic-arcade-ui-14-229514.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/Input/IMC_Default.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPlayerController.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Gerad/Documents/GitHub/CSE-4550-Game/Game4550/Content/UI/Widgets/WBP_OtionsSwitcher.uasset"
+			]
+		}
+	]
+}

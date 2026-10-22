@@ -163,14 +163,14 @@ ATimeTrialGameMode::~ATimeTrialGameMode() {}
 #ifdef UHT_STATICS
 #error UHT_STATICS already defined
 #endif
-#define UHT_STATICS Z_CompiledInDeferFile_FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialGameMode_h__Script_Game4550_Statics
+#define UHT_STATICS Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialGameMode_h__Script_Game4550_Statics
 struct UHT_STATICS
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ATimeTrialGameMode, TEXT("ATimeTrialGameMode"), &Z_Registration_Info_UClass_ATimeTrialGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATimeTrialGameMode), 453208533U) },
 	};
 }; // UHT_STATICS 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialGameMode_h__Script_Game4550_815b876272a637231a5bddcee2c63aa2cb42c94d{
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_TimeTrialGameMode_h__Script_Game4550_815b876272a637231a5bddcee2c63aa2cb42c94d{
 	TEXT("/Script/Game4550"),
 	UHT_STATICS::ClassInfo, UE_ARRAY_COUNT(UHT_STATICS::ClassInfo),
 	nullptr, 0,

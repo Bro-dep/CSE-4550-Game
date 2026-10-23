@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Gerad\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550.Build.cs",
-		"C:\\Users\\Gerad\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550.Target.cs",
-		"C:\\Users\\Gerad\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550Editor.Target.cs"
+		"C:\\Users\\Owner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550.Build.cs",
+		"C:\\Users\\Owner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550.Target.cs",
+		"C:\\Users\\Owner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550Editor.Target.cs"
 	],
 	"EngineVersion": "5.8.2"
 }

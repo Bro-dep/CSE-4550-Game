@@ -108,14 +108,14 @@ AGame4550GameMode::~AGame4550GameMode() {}
 #ifdef UHT_STATICS
 #error UHT_STATICS already defined
 #endif
-#define UHT_STATICS Z_CompiledInDeferFile_FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550GameMode_h__Script_Game4550_Statics
+#define UHT_STATICS Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550GameMode_h__Script_Game4550_Statics
 struct UHT_STATICS
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AGame4550GameMode, TEXT("AGame4550GameMode"), &Z_Registration_Info_UClass_AGame4550GameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGame4550GameMode), 3776987693U) },
 	};
 }; // UHT_STATICS 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550GameMode_h__Script_Game4550_3a312eebc3016df29a71ac2eea6b5cee52f5acb6{
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550GameMode_h__Script_Game4550_3a312eebc3016df29a71ac2eea6b5cee52f5acb6{
 	TEXT("/Script/Game4550"),
 	UHT_STATICS::ClassInfo, UE_ARRAY_COUNT(UHT_STATICS::ClassInfo),
 	nullptr, 0,

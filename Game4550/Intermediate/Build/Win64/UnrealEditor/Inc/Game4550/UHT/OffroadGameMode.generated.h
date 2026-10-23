@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AOffroadGameMode_Statics;
 GAME4550_API UClass* Z_Construct_UClass_AOffroadGameMode(ETypeConstructPhase);
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	friend struct ::Z_Construct_UClass_AOffroadGameMode_Statics; \
 	friend GAME4550_API UClass* ::Z_Construct_UClass_AOffroadGameMode(ETypeConstructPhase); \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AOffroadGameMode)
 
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AOffroadGameMode(AOffroadGameMode&&) = delete; \
 	AOffroadGameMode(const AOffroadGameMode&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AOffroadGameMode();
 
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_12_PROLOG
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_GENERATED_BODY \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_12_PROLOG
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AOffroadGameMode;
 // ********** End Class AOffroadGameMode ***********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h
+#define CURRENT_FILE_ID FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_OffRoad_OffroadGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -449,14 +449,14 @@ UTimeTrialUI::~UTimeTrialUI() {}
 #ifdef UHT_STATICS
 #error UHT_STATICS already defined
 #endif
-#define UHT_STATICS Z_CompiledInDeferFile_FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_UI_TimeTrialUI_h__Script_Game4550_Statics
+#define UHT_STATICS Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_UI_TimeTrialUI_h__Script_Game4550_Statics
 struct UHT_STATICS
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UTimeTrialUI, TEXT("UTimeTrialUI"), &Z_Registration_Info_UClass_UTimeTrialUI, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UTimeTrialUI), 1710935229U) },
 	};
 }; // UHT_STATICS 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_UI_TimeTrialUI_h__Script_Game4550_5c413975e22596d58b74b1a5d8c4be1eec11bca1{
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Variant_TimeTrial_UI_TimeTrialUI_h__Script_Game4550_5c413975e22596d58b74b1a5d8c4be1eec11bca1{
 	TEXT("/Script/Game4550"),
 	UHT_STATICS::ClassInfo, UE_ARRAY_COUNT(UHT_STATICS::ClassInfo),
 	nullptr, 0,

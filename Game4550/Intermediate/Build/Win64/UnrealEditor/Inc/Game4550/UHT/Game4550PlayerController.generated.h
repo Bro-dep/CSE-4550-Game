@@ -19,14 +19,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
 
 // ********** Begin Class AGame4550PlayerController ************************************************
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnPawnDestroyed);
 
 
 struct Z_Construct_UClass_AGame4550PlayerController_Statics;
 GAME4550_API UClass* Z_Construct_UClass_AGame4550PlayerController(ETypeConstructPhase);
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	friend struct ::Z_Construct_UClass_AGame4550PlayerController_Statics; \
 	friend GAME4550_API UClass* ::Z_Construct_UClass_AGame4550PlayerController(ETypeConstructPhase); \
@@ -35,7 +35,7 @@ public: \
 	DECLARE_SERIALIZER(AGame4550PlayerController)
 
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AGame4550PlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -47,13 +47,13 @@ public: \
 	NO_API virtual ~AGame4550PlayerController();
 
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_17_PROLOG
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_GENERATED_BODY \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_17_PROLOG
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,6 +63,6 @@ class AGame4550PlayerController;
 // ********** End Class AGame4550PlayerController **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h
+#define CURRENT_FILE_ID FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_Game4550PlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

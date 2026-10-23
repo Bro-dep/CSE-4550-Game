@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_UGame4550SportsWheelFront_Statics;
 GAME4550_API UClass* Z_Construct_UClass_UGame4550SportsWheelFront(ETypeConstructPhase);
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	friend struct ::Z_Construct_UClass_UGame4550SportsWheelFront_Statics; \
 	friend GAME4550_API UClass* ::Z_Construct_UClass_UGame4550SportsWheelFront(ETypeConstructPhase); \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UGame4550SportsWheelFront)
 
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UGame4550SportsWheelFront(UGame4550SportsWheelFront&&) = delete; \
 	UGame4550SportsWheelFront(const UGame4550SportsWheelFront&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UGame4550SportsWheelFront();
 
 
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_12_PROLOG
-#define FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_GENERATED_BODY \
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_12_PROLOG
+#define FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class UGame4550SportsWheelFront;
 // ********** End Class UGame4550SportsWheelFront **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Gerad_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h
+#define CURRENT_FILE_ID FID_Users_Owner_Documents_GitHub_CSE_4550_Game_Game4550_Source_Game4550_SportsCar_Game4550SportsWheelFront_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

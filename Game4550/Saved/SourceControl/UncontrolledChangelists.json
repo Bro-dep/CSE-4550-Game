@@ -5,38 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_KartTest.uasset",
-				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/D/T2/UN9LKQW8ON38MYZT5RP7D6.uasset",
-				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Maps/VehicleBasic.umap",
-=======
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Maps/VehicleBasic.umap",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/Acceleration_sound.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_Kart.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/Baackground_Music_1.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/Baackground_Music_1_loop.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/ENGINE_SOUND.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/GM_Kart.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Kart_Accelerate.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IMC_Kart.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/NewSoundAttenuation.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/engine_start_sound.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_KartTest.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/E/SY/6MVUPUGRKFHX0FV7GJIK4S.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/effect/sparks_effect/spark_effect.uasset",
-				"C:/Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Content/Sounds/Spark_sound_effect.uasset",
->>>>>>> sound-max
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_Kart.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/GM_Kart.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Kart_Accelerate.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IMC_Kart.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Maps/VehicleBasic.umap",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Kart_Steer.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/BP_HoverKart.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/D/E4/C3QVWNPHELJ6N8HFQQ0MQL.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/F/2B/P3K8F61TNAX5YJ9MT3BWDO.uasset",
-				"C:/Users/Owner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Kart/Input/IA_Accelerate.uasset"
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/E/K0/580IGFLO8RBE393YTVAS4P.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/Asphalt.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/Black.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/3/7H/IVPR3U9OOL3AGB1R3MC0M3.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/Ground.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/Red.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/White.uasset",
+				"C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/winding_track__1_.uasset"
 			]
 		}
 	]

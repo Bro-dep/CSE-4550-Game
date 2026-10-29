@@ -2216,3 +2216,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.29-03.36.46:451][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.205802
 [2026.10.29-03.36.46:452][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1468595578
 [2026.10.29-03.36.46:453][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.205802, Update Interval: 327.155365
+[2026.10.29-03.38.51:605][ 89]LogDerivedDataCache: C:/Users/miner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.140 and deleted 0 files with total size 0 MiB and 26 empty folders. Scanned 9614 files in 10009 folders with total size 199 MiB.
+[2026.10.29-03.39.11:589][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.29-03.39.11:595][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic
+[2026.10.29-03.39.11:595][251]Cmd: MAP LOAD FILE="C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/VehicleTemplate/Maps/VehicleBasic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.29-03.39.11:613][251]LogWorld: UWorld::CleanupWorld for VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-03.39.11:614][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-03.39.11:614][251]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic
+[2026.10.29-03.39.11:646][251]LogAudio: Display: Audio Device unregistered from world 'VehicleBasic'.
+[2026.10.29-03.39.11:650][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.10.29-03.39.11:694][251]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-03.39.11:697][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'VehicleBasic'.
+[2026.10.29-03.39.11:697][251]LogChaosDD: Creating Chaos Debug Draw Scene for world VehicleBasic
+[2026.10.29-03.39.11:699][251]LogWorldPartition: ULevel::OnLevelLoaded(VehicleBasic)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.10.29-03.39.11:699][251]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.10.29-03.39.11:699][251]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.10.29-03.39.11:798][251]LogWorldPartition: Display: WorldPartition initialize took 99.277 ms (total: 462.369 ms)
+[2026.10.29-03.39.11:827][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.29-03.39.11:849][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.10.29-03.39.11:857][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.29-03.39.11:858][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.613ms to complete.
+[2026.10.29-03.39.11:971][252]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-03.40.04:339][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-03.40.04:370][532]LogFileHelpers: Saving Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/3/7H/IVPR3U9OOL3AGB1R3MC0M3
+[2026.10.29-03.40.04:416][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/3/7H/IVPR3U9OOL3AGB1R3MC0M3
+[2026.10.29-03.40.04:417][532]LogSavePackage: Moving 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Saved/IVPR3U9OOL3AGB1R3MC0M35835F4E0404F9DBA74A3AF90652CC183.tmp' to 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/3/7H/IVPR3U9OOL3AGB1R3MC0M3.uasset'
+[2026.10.29-03.40.04:424][532]LogFileHelpers: Saving Package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/E/K0/580IGFLO8RBE393YTVAS4P
+[2026.10.29-03.40.04:429][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/E/K0/580IGFLO8RBE393YTVAS4P
+[2026.10.29-03.40.04:430][532]LogSavePackage: Moving 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Saved/580IGFLO8RBE393YTVAS4P6BE051114791697B76381CA0FB93BD34.tmp' to 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/E/K0/580IGFLO8RBE393YTVAS4P.uasset'
+[2026.10.29-03.40.04:446][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.959 ms
+[2026.10.29-03.40.04:495][532]LogContentValidation: Enabled validators:
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-03.40.04:495][532]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-03.40.04:495][532]LogContentValidation: Display: Starting to validate 1 assets (2 associated objects such as actors)
+[2026.10.29-03.40.04:495][532]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-03.40.04:499][532]AssetCheck: /Game/VehicleTemplate/Maps/VehicleBasic Validating asset
+[2026.10.29-03.40.04:499][532]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-03.40.04:499][532]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.29-03.40.04:539][532]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Saved/SourceControl/UncontrolledChangelists.json

@@ -4840,3 +4840,533 @@ FPackageName: Skipped package /Game/Maps/MapDeco/PalmTree has a valid, mounted, 
 [2026.10.29-06.22.57:346][281]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.29-06.22.57:346][281]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.10.29-06.22.57:384][281]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.29-06.23.57:107][997]Cmd: SELECT NONE
+[2026.10.29-06.24.01:239][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.29-06.24.01:247][405]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.29-06.24.01:247][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.29-06.24.01:248][405]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2026.10.29-06.24.01:250][405]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.10.29-06.24.01:266][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.01:274][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006791s)
+[2026.10.29-06.24.01:274][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.006856s)
+[2026.10.29-06.24.01:295][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.10.29-06.24.01:299][406]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.24.01:301][406]LogPlayLevel: PIE: World Init took: (0.002418s)
+[2026.10.29-06.24.01:301][406]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-06.24.01:302][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.29-06.24.01:302][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-06.24.01:302][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-06.24.01:302][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-06.24.01:302][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-06.24.01:302][406]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.29-06.24.01:309][406]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.01:311][406]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.01:312][406]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.01:314][406]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.01:315][406]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.01:317][406]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.01:321][406]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.29-06.24.01:321][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.29-06.24.01:321][406]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.29-06.24.01:321][406]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.10.29-06.24.01:322][406]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.29-06.24.01:322][406]LogAudioMixerWasapi: Warning: Sample rate mismatch. Engine sample rate: 48000 Device sample rate: 96000
+[2026.10.29-06.24.01:322][406]LogAudioMixerWasapi: Warning: Device level sample rate conversion will be used.
+[2026.10.29-06.24.01:325][406]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 8
+[2026.10.29-06.24.01:325][406]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.29-06.24.01:325][406]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.29-06.24.01:325][406]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.10.29-06.24.01:325][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-06.24.01:325][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-06.24.01:325][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-06.24.01:326][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2026.10.29-06.24.01:328][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.10.29-06.24.01:330][406]LogInit: FAudioDevice initialized with ID 2.
+[2026.10.29-06.24.01:330][406]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_WindingTrack'.
+[2026.10.29-06.24.01:330][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.29-06.24.01:330][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.01:333][406]LogLoad: Game class is 'GM_MainMenu_C'
+[2026.10.29-06.24.01:335][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.24.01
+[2026.10.29-06.24.01:336][406]LogWorld: Bringing up level for play took: 0.002267
+[2026.10.29-06.24.01:336][406]LogWindows: WindowsPlatformFeatures enabled
+[2026.10.29-06.24.01:336][406]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.29-06.24.01:336][406]LogModuleManager: InternalLoadLibrary: 'Voice' ('E:/EpicGames/UE_5.8/Engine/Binaries/Win64/UnrealEditor-Voice.dll')
+[2026.10.29-06.24.01:336][406]LogModuleManager: InternalLoadLibrary: 'MovieSceneCapture' ('E:/EpicGames/UE_5.8/Engine/Binaries/Win64/UnrealEditor-MovieSceneCapture.dll')
+[2026.10.29-06.24.01:338][406]LogStreaming: Display: FlushAsyncLoading(1210): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-06.24.01:338][406]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/UI/Widgets/SaveGame/Settings.settings_C'
+[2026.10.29-06.24.01:339][406]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.29-06.24.01:339][406]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.29-06.24.01:339][406]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.29-06.24.01:339][406]PIE: Server logged in
+[2026.10.29-06.24.01:340][406]PIE: Play in editor total start time 0.094 seconds.
+[2026.10.29-06.24.01:357][406]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'testingmusi'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.10.29-06.24.01:359][406]LogSlate: Display: Font face '../../Content/Slate/Fonts/Roboto-Bold.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.29-06.24.01:386][407]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.24.03:382][634]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.10.29-06.24.03:383][634]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.29-06.24.03:383][634]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.29-06.24.03:384][634]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C"
+[2026.10.29-06.24.03:384][634]LogNet: Browse: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.24.03:384][634]LogLoad: LoadMap: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.24.03:384][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.03:385][634]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.24.03:386][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.03:432][634]LogAudio: Display: Audio Device unregistered from world 'L_WindingTrack'.
+[2026.10.29-06.24.03:434][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.10.29-06.24.03:436][634]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.03:442][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006432s)
+[2026.10.29-06.24.03:442][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.006481s)
+[2026.10.29-06.24.03:442][634]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_WindingTrack'.
+[2026.10.29-06.24.03:442][634]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.24.03:444][634]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2026.10.29-06.24.03:444][634]LogLoad: Game class is 'GM_KartTest_C'
+[2026.10.29-06.24.03:447][634]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.24.03
+[2026.10.29-06.24.03:447][634]LogWorld: Bringing up level for play took: 0.002164
+[2026.10.29-06.24.03:449][634]LogLoad: Took 0.064209 seconds to LoadMap(/Game/Maps/UEDPIE_0_L_WindingTrack)
+[2026.10.29-06.24.03:449][634]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.03:453][634]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.24.05:180][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.05:180][827]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.05:180][827]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.24.05:181][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.05:183][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.29-06.24.05:186][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.05:209][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.05:210][827]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.29-06.24.05:210][827]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=2, StreamState=4
+[2026.10.29-06.24.05:216][827]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-06.24.05:226][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.10.29-06.24.05:257][828]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.10.29-06.24.20:179][760]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.29-06.24.22:874][ 16]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.29-06.24.25:104][249]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.29-06.24.32:388][ 38]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.29-06.24.37:684][593]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.29-06.24.39:095][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.29-06.24.39:104][757]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.29-06.24.39:104][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.29-06.24.39:104][757]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2026.10.29-06.24.39:107][757]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.10.29-06.24.39:125][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.39:132][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006896s)
+[2026.10.29-06.24.39:132][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.006972s)
+[2026.10.29-06.24.39:151][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.10.29-06.24.39:154][758]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.24.39:155][758]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2026.10.29-06.24.39:155][758]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-06.24.39:155][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.29-06.24.39:155][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-06.24.39:155][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-06.24.39:155][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-06.24.39:155][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-06.24.39:155][758]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.29-06.24.39:163][758]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.39:165][758]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.39:166][758]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.39:168][758]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.39:169][758]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.39:171][758]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.39:174][758]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.29-06.24.39:174][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.29-06.24.39:174][758]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.29-06.24.39:174][758]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.10.29-06.24.39:175][758]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.29-06.24.39:176][758]LogAudioMixerWasapi: Warning: Sample rate mismatch. Engine sample rate: 48000 Device sample rate: 96000
+[2026.10.29-06.24.39:176][758]LogAudioMixerWasapi: Warning: Device level sample rate conversion will be used.
+[2026.10.29-06.24.39:178][758]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 8
+[2026.10.29-06.24.39:178][758]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.29-06.24.39:178][758]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.29-06.24.39:178][758]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.10.29-06.24.39:179][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-06.24.39:179][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-06.24.39:179][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-06.24.39:179][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2026.10.29-06.24.39:182][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.10.29-06.24.39:183][758]LogInit: FAudioDevice initialized with ID 3.
+[2026.10.29-06.24.39:183][758]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_WindingTrack'.
+[2026.10.29-06.24.39:183][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.29-06.24.39:183][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.39:186][758]LogLoad: Game class is 'GM_MainMenu_C'
+[2026.10.29-06.24.39:189][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.24.39
+[2026.10.29-06.24.39:189][758]LogWorld: Bringing up level for play took: 0.002167
+[2026.10.29-06.24.39:189][758]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.29-06.24.39:190][758]LogStreaming: Display: FlushAsyncLoading(1212): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-06.24.39:190][758]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.29-06.24.39:190][758]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.29-06.24.39:190][758]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.29-06.24.39:190][758]PIE: Server logged in
+[2026.10.29-06.24.39:192][758]PIE: Play in editor total start time 0.089 seconds.
+[2026.10.29-06.24.39:201][758]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'testingmusi'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.10.29-06.24.39:235][759]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.24.40:104][862]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.10.29-06.24.40:104][862]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.29-06.24.40:104][862]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.29-06.24.40:106][862]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C"
+[2026.10.29-06.24.40:106][862]LogNet: Browse: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.24.40:106][862]LogLoad: LoadMap: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.24.40:106][862]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.40:107][862]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.24.40:108][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.40:164][862]LogAudio: Display: Audio Device unregistered from world 'L_WindingTrack'.
+[2026.10.29-06.24.40:165][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.29-06.24.40:166][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.40:172][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005877s)
+[2026.10.29-06.24.40:172][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.005924s)
+[2026.10.29-06.24.40:172][862]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_WindingTrack'.
+[2026.10.29-06.24.40:172][862]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.24.40:174][862]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2026.10.29-06.24.40:174][862]LogLoad: Game class is 'GM_KartTest_C'
+[2026.10.29-06.24.40:176][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.24.40
+[2026.10.29-06.24.40:176][862]LogWorld: Bringing up level for play took: 0.001915
+[2026.10.29-06.24.40:177][862]LogLoad: Took 0.071017 seconds to LoadMap(/Game/Maps/UEDPIE_0_L_WindingTrack)
+[2026.10.29-06.24.40:177][862]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.40:181][862]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.24.41:540][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.41:541][ 17]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.41:541][ 17]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.24.41:541][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.41:543][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.29-06.24.41:547][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.41:568][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.41:568][ 17]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.29-06.24.41:568][ 17]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=3, StreamState=4
+[2026.10.29-06.24.41:574][ 17]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-06.24.41:584][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.10.29-06.24.41:629][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.10.29-06.24.46:912][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.29-06.24.48:532][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.29-06.24.48:539][749]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.29-06.24.48:539][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.29-06.24.48:539][749]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2026.10.29-06.24.48:542][749]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.10.29-06.24.48:560][750]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.48:567][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007181s)
+[2026.10.29-06.24.48:567][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.007239s)
+[2026.10.29-06.24.48:587][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.29-06.24.48:589][750]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.24.48:591][750]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2026.10.29-06.24.48:591][750]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-06.24.48:591][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.29-06.24.48:591][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-06.24.48:591][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-06.24.48:591][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-06.24.48:591][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-06.24.48:591][750]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.29-06.24.48:598][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.48:599][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.48:601][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.48:602][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.48:603][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.48:605][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.24.48:609][750]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.29-06.24.48:609][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.29-06.24.48:609][750]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.29-06.24.48:609][750]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.10.29-06.24.48:609][750]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.29-06.24.48:609][750]LogAudioMixerWasapi: Warning: Sample rate mismatch. Engine sample rate: 48000 Device sample rate: 96000
+[2026.10.29-06.24.48:609][750]LogAudioMixerWasapi: Warning: Device level sample rate conversion will be used.
+[2026.10.29-06.24.48:612][750]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 8
+[2026.10.29-06.24.48:612][750]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.29-06.24.48:612][750]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.29-06.24.48:612][750]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.10.29-06.24.48:612][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-06.24.48:612][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-06.24.48:613][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-06.24.48:613][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2026.10.29-06.24.48:615][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.10.29-06.24.48:617][750]LogInit: FAudioDevice initialized with ID 4.
+[2026.10.29-06.24.48:617][750]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_WindingTrack'.
+[2026.10.29-06.24.48:617][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.29-06.24.48:617][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.48:619][750]LogLoad: Game class is 'GM_MainMenu_C'
+[2026.10.29-06.24.48:622][750]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.24.48
+[2026.10.29-06.24.48:623][750]LogWorld: Bringing up level for play took: 0.002258
+[2026.10.29-06.24.48:623][750]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.29-06.24.48:624][750]LogStreaming: Display: FlushAsyncLoading(1214): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-06.24.48:624][750]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.29-06.24.48:624][750]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.29-06.24.48:624][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.29-06.24.48:625][750]PIE: Server logged in
+[2026.10.29-06.24.48:626][750]PIE: Play in editor total start time 0.087 seconds.
+[2026.10.29-06.24.48:634][750]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'testingmusi'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.10.29-06.24.48:671][751]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.24.49:183][811]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.10.29-06.24.49:183][811]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.29-06.24.49:183][811]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.29-06.24.49:185][811]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C"
+[2026.10.29-06.24.49:185][811]LogNet: Browse: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.24.49:185][811]LogLoad: LoadMap: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.24.49:185][811]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.49:186][811]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.24.49:187][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.49:240][811]LogAudio: Display: Audio Device unregistered from world 'L_WindingTrack'.
+[2026.10.29-06.24.49:242][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.29-06.24.49:244][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.49:251][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006666s)
+[2026.10.29-06.24.49:251][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.006730s)
+[2026.10.29-06.24.49:251][811]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_WindingTrack'.
+[2026.10.29-06.24.49:251][811]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.24.49:252][811]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2026.10.29-06.24.49:252][811]LogLoad: Game class is 'GM_KartTest_C'
+[2026.10.29-06.24.49:255][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.24.49
+[2026.10.29-06.24.49:255][811]LogWorld: Bringing up level for play took: 0.002105
+[2026.10.29-06.24.49:256][811]LogLoad: Took 0.071055 seconds to LoadMap(/Game/Maps/UEDPIE_0_L_WindingTrack)
+[2026.10.29-06.24.49:256][811]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.49:259][811]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.24.53:380][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.53:380][293]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.24.53:380][293]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.24.53:381][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.53:383][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.29-06.24.53:386][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.24.53:407][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.24.53:408][293]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.29-06.24.53:408][293]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=4, StreamState=4
+[2026.10.29-06.24.53:413][293]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-06.24.53:425][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.10.29-06.24.53:470][294]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.10.29-06.25.17:798][505]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/MapDeco/FinishLine.FinishLine
+[2026.10.29-06.25.44:028][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-06.25.44:057][907]LogFileHelpers: Saving Package: /Game/Maps/MapDeco/FinishLine
+[2026.10.29-06.25.44:057][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MapDeco/FinishLine] ([1] browsable assets)...
+[2026.10.29-06.25.44:057][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MapDeco/FinishLine]
+[2026.10.29-06.25.44:057][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapDeco/FinishLine" FILE="C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/MapDeco/FinishLine.uasset" SILENT=true
+[2026.10.29-06.25.44:066][907]LogSavePackage: Moving output files for package: /Game/Maps/MapDeco/FinishLine
+[2026.10.29-06.25.44:067][907]LogSavePackage: Moving 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Saved/FinishLine77F80EC3402F0AD2A76F67B02F7CE90E.tmp' to 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/MapDeco/FinishLine.uasset'
+[2026.10.29-06.25.44:076][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.635 ms (total: 3.26 sec)
+[2026.10.29-06.25.44:104][907]LogContentValidation: Enabled validators:
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-06.25.44:104][907]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-06.25.44:104][907]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-06.25.44:104][907]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-06.25.44:105][907]AssetCheck: /Game/Maps/MapDeco/FinishLine Validating asset
+[2026.10.29-06.25.44:105][907]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-06.25.44:105][907]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.29-06.25.45:383][983]LogSlate: Window 'FinishLine' being destroyed
+[2026.10.29-06.25.45:391][983]LogSlate: Window 'FinishLine' being destroyed
+[2026.10.29-06.25.45:423][983]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.25.45:423][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.25.45:474][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.10.29-06.25.46:815][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.29-06.25.46:824][ 96]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.29-06.25.46:824][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.29-06.25.46:824][ 96]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2026.10.29-06.25.46:826][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.10.29-06.25.46:849][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.25.46:856][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007352s)
+[2026.10.29-06.25.46:856][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.007404s)
+[2026.10.29-06.25.46:877][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.29-06.25.46:881][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.25.46:883][ 97]LogPlayLevel: PIE: World Init took: (0.001964s)
+[2026.10.29-06.25.46:883][ 97]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-06.25.46:883][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.29-06.25.46:883][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-06.25.46:883][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-06.25.46:883][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-06.25.46:883][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-06.25.46:883][ 97]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.29-06.25.46:891][ 97]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.25.46:892][ 97]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.25.46:894][ 97]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.25.46:895][ 97]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.25.46:897][ 97]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.25.46:898][ 97]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)'
+[2026.10.29-06.25.46:903][ 97]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.29-06.25.46:903][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.29-06.25.46:903][ 97]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.29-06.25.46:903][ 97]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.10.29-06.25.46:904][ 97]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.29-06.25.46:904][ 97]LogAudioMixerWasapi: Warning: Sample rate mismatch. Engine sample rate: 48000 Device sample rate: 96000
+[2026.10.29-06.25.46:904][ 97]LogAudioMixerWasapi: Warning: Device level sample rate conversion will be used.
+[2026.10.29-06.25.46:907][ 97]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 8, Wasapi render stream hardware supports num channels: 8
+[2026.10.29-06.25.46:907][ 97]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.29-06.25.46:907][ 97]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=8 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.29-06.25.46:907][ 97]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.10.29-06.25.46:907][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-06.25.46:907][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-06.25.46:907][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-06.25.46:907][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2026.10.29-06.25.46:909][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.10.29-06.25.46:911][ 97]LogInit: FAudioDevice initialized with ID 5.
+[2026.10.29-06.25.46:911][ 97]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_WindingTrack'.
+[2026.10.29-06.25.46:911][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.10.29-06.25.46:911][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.25.46:914][ 97]LogLoad: Game class is 'GM_MainMenu_C'
+[2026.10.29-06.25.46:916][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.25.46
+[2026.10.29-06.25.46:916][ 97]LogWorld: Bringing up level for play took: 0.002352
+[2026.10.29-06.25.46:917][ 97]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.29-06.25.46:919][ 97]LogStreaming: Display: FlushAsyncLoading(1216): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-06.25.46:920][ 97]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.29-06.25.46:920][ 97]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.29-06.25.46:920][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.29-06.25.46:920][ 97]PIE: Server logged in
+[2026.10.29-06.25.46:922][ 97]PIE: Play in editor total start time 0.098 seconds.
+[2026.10.29-06.25.46:930][ 97]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'testingmusi'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.10.29-06.25.46:967][ 98]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.25.47:640][171]LogViewport: Display: Player bShowMouseCursor Changed, True -> False
+[2026.10.29-06.25.47:640][171]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.29-06.25.47:640][171]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.29-06.25.47:641][171]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C"
+[2026.10.29-06.25.47:641][171]LogNet: Browse: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.25.47:641][171]LogLoad: LoadMap: /Game/Maps/L_WindingTrack??game=/Game/Blueprints/GameModes/GM_KartTest.GM_KartTest_C
+[2026.10.29-06.25.47:641][171]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.25.47:643][171]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.25.47:644][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.25.47:711][171]LogAudio: Display: Audio Device unregistered from world 'L_WindingTrack'.
+[2026.10.29-06.25.47:713][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.29-06.25.47:714][171]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.25.47:721][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006674s)
+[2026.10.29-06.25.47:721][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_WindingTrack.L_WindingTrack to /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack (0.006721s)
+[2026.10.29-06.25.47:721][171]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_WindingTrack'.
+[2026.10.29-06.25.47:721][171]LogChaosDD: Creating Chaos Debug Draw Scene for world L_WindingTrack
+[2026.10.29-06.25.47:723][171]LogPlayLevel: PIE: World Init took: (0.002123s)
+[2026.10.29-06.25.47:723][171]LogLoad: Game class is 'GM_KartTest_C'
+[2026.10.29-06.25.47:726][171]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_WindingTrack.L_WindingTrack up for play (max tick rate 0) at 2026.10.28-23.25.47
+[2026.10.29-06.25.47:726][171]LogWorld: Bringing up level for play took: 0.002175
+[2026.10.29-06.25.47:727][171]LogLoad: Took 0.085576 seconds to LoadMap(/Game/Maps/UEDPIE_0_L_WindingTrack)
+[2026.10.29-06.25.47:727][171]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.25.47:731][171]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-06.26.03:859][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.26.03:859][ 44]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_WindingTrack
+[2026.10.29-06.26.03:859][ 44]LogWorld: UWorld::CleanupWorld for L_WindingTrack, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.26.03:860][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.26.03:863][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.29-06.26.03:867][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.26.03:891][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.26.03:891][ 44]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.10.29-06.26.03:891][ 44]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=5, StreamState=4
+[2026.10.29-06.26.03:897][ 44]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-06.26.03:911][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.10.29-06.26.03:980][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: ================================================
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Total job queries 429, among them cache hits 72 (16.78%), DDC hits 326 (75.99%), Duplicates 23 (5.36%)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Tracking 334 distinct input hashes that result in 236 distinct outputs (70.66%)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: RAM used: 3.21 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Shaders Compiled: 8
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Average time worker was idle: 496.91 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.88 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Job life time (pending + execution): average 0.56 s, max 0.92
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Shader code size: total 67.426 KiB, numShaders 8, average 8.428 KiB, min 6.77 KiB, max 11.961 KiB
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.15 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Average processing rate: 3.73 jobs/sec
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Total thread time: 2.398 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Total thread preprocess time: 7.255 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Percentage time preprocessing: 302.61%
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.093091
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.58 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 51.14% of total time (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.58 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.19% of total time (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.43% of total time (compiled    2 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.86% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.37% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: === Material stats ===
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Materials Translated:    167
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Material Translation Only: 0.04 s (37%)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: Material Cache Hits: 29 (17%)
+[2026.10.29-06.26.27:461][935]LogShaderCompilers: Display: ================================================
+[2026.10.29-06.26.34:574][627]Cmd: SELECT NONE
+[2026.10.29-06.26.35:929][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.29-06.26.35:965][785]LogFileHelpers: Saving Map: /Game/Maps/L_WindingTrack
+[2026.10.29-06.26.35:965][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/L_WindingTrack] ([1] browsable assets)...
+[2026.10.29-06.26.35:965][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/L_WindingTrack]
+[2026.10.29-06.26.35:965][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_WindingTrack" FILE="C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/L_WindingTrack.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.29-06.26.36:009][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.29-06.26.36:033][785]LogSavePackage: Moving output files for package: /Game/Maps/L_WindingTrack
+[2026.10.29-06.26.36:033][785]LogSavePackage: Moving 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Saved/L_WindingTrack7A48512E402F0EA2B237E4B1E24B3F7A.tmp' to 'C:/Users/miner/Documents/GitHub/CSE-4550-Game/Game4550/Content/Maps/L_WindingTrack.umap'
+[2026.10.29-06.26.36:054][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.722 ms (total: 3.39 sec)
+[2026.10.29-06.26.36:091][785]LogContentValidation: Enabled validators:
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.29-06.26.36:091][785]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.29-06.26.36:092][785]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.29-06.26.36:092][785]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.29-06.26.36:092][785]AssetCheck: /Game/Maps/L_WindingTrack Validating asset
+[2026.10.29-06.26.36:092][785]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.29-06.26.36:092][785]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0

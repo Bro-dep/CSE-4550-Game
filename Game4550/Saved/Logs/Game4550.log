@@ -3174,3 +3174,187 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.29-05.12.49:880][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kart/BP_KartTest_Auto5
 [2026.10.29-05.12.49:880][321]LogSavePackage: Moving '../../../../../../Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Saved/BP_KartTest_Auto54AB458304C96175FF75A358C0EA7E1D1.tmp' to '../../../../../../Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Saved/Autosaves/Game/Kart/BP_KartTest_Auto5.uasset'
 [2026.10.29-05.12.49:881][321]LogFileHelpers: Auto-saving content packages took 0.147
+[2026.10.29-05.16.37:397][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5035.401855
+[2026.10.29-05.16.38:398][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.16.38:398][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5036.068848, Update Interval: 357.238678
+[2026.10.29-05.23.17:732][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5435.729492
+[2026.10.29-05.23.18:731][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.23.18:731][422]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5436.396484, Update Interval: 341.320831
+[2026.10.29-05.29.33:399][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5811.395508
+[2026.10.29-05.29.34:399][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.29.34:399][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5812.062500, Update Interval: 324.672394
+[2026.10.29-05.35.53:399][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6191.379883
+[2026.10.29-05.35.54:398][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.35.54:398][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6192.046387, Update Interval: 348.028198
+[2026.10.29-05.42.34:734][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6592.706543
+[2026.10.29-05.42.35:735][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.42.35:735][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6593.373535, Update Interval: 319.966431
+[2026.10.29-05.48.43:734][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6961.703125
+[2026.10.29-05.48.44:734][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.48.44:734][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6962.369141, Update Interval: 350.547791
+[2026.10.29-05.54.54:952][111]LogDerivedDataCache: C:/Users/Alli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.134 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9789 files in 10292 folders with total size 233 MiB.
+[2026.10.29-05.55.28:734][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7366.698730
+[2026.10.29-05.55.29:735][215]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-05.55.29:735][215]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7367.365723, Update Interval: 300.633575
+[2026.10.29-06.01.01:403][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7699.364746
+[2026.10.29-06.01.02:404][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-06.01.02:404][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7700.031738, Update Interval: 346.464417
+[2026.10.29-06.07.46:070][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8104.017090
+[2026.10.29-06.07.47:070][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-06.07.47:070][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8104.683594, Update Interval: 304.759064
+[2026.10.29-06.13.51:079][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8469.000000
+[2026.10.29-06.13.52:079][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-06.13.52:079][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8469.666992, Update Interval: 316.948761
+[2026.10.29-06.20.07:749][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8845.638672
+[2026.10.29-06.20.08:749][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-06.20.08:749][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8846.304688, Update Interval: 328.660553
+[2026.10.29-06.25.48:756][512]LogShaderCompilers: Display: ================================================
+[2026.10.29-06.25.48:756][512]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.29-06.25.48:756][512]LogShaderCompilers: Display: Total job queries 327, among them cache hits 16 (4.89%), DDC hits 284 (86.85%), Duplicates 23 (7.03%)
+[2026.10.29-06.25.48:756][512]LogShaderCompilers: Display: Tracking 288 distinct input hashes that result in 204 distinct outputs (70.83%)
+[2026.10.29-06.25.48:756][512]LogShaderCompilers: Display: RAM used: 2.98 MiB of 819.20 MiB budget. Usage: 0.36%
+[2026.10.29-06.25.48:756][512]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Shaders Compiled: 4
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 1.27 s
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 1.32
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Shader code size: total 32.254 KiB, numShaders 4, average 8.063 KiB, min 6.688 KiB, max 10.859 KiB
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.33 s
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Average processing rate: 3.01 jobs/sec
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Total thread time: 1.248 s
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Total thread preprocess time: 6.944 s
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Percentage time preprocessing: 556.25%
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Effective parallelization: 0.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.117507
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.28% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                                 FLumenCardPS - 24.02% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.68% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.03% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: === Material stats ===
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Materials Translated:    157
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Material Translation Only: 0.07 s (49%)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: Material Cache Hits: 27 (17%)
+[2026.10.29-06.25.48:758][512]LogShaderCompilers: Display: ================================================
+[2026.10.29-06.25.58:376][ 65]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-06.25.58:378][ 65]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/Baackground_Music_1_loop.Baackground_Music_1_loop
+[2026.10.29-06.26.04:253][382]LogSlate: Window 'Baackground_Music_1_loop' being destroyed
+[2026.10.29-06.26.04:277][382]LogSlate: Window 'Baackground_Music_1_loop' being destroyed
+[2026.10.29-06.26.04:283][382]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.26.04:284][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.26.04:438][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.10.29-06.26.11:139][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9208.989258
+[2026.10.29-06.26.11:286][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.29-06.26.11:286][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9209.121094, Update Interval: 340.740387
+[2026.10.29-06.26.14:042][945]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/Spark_sound_effect.Spark_sound_effect
+[2026.10.29-06.26.17:478][125]LogSlate: Window 'Spark_sound_effect' being destroyed
+[2026.10.29-06.26.17:521][125]LogSlate: Window 'Spark_sound_effect' being destroyed
+[2026.10.29-06.27.18:975][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.10.29-06.27.18:980][287]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/VehicleBasic' took 0.053
+[2026.10.29-06.27.18:980][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Spark_sound_effect] ([1] browsable assets)...
+[2026.10.29-06.27.18:984][287]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Spark_sound_effect.Spark_sound_effect]
+[2026.10.29-06.27.18:984][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Spark_sound_effect]
+[2026.10.29-06.27.18:993][287]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/Spark_sound_effect_Auto6
+[2026.10.29-06.27.18:993][287]LogSavePackage: Moving '../../../../../../Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Saved/Spark_sound_effect_Auto6999528424B446176782E0095E5566C51.tmp' to '../../../../../../Users/Alli/Documents/GitHub/CSE-4550-Game/Game4550/Saved/Autosaves/Game/Sounds/Spark_sound_effect_Auto6.uasset'
+[2026.10.29-06.27.18:995][287]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.10.29-06.27.33:496][846]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.29-06.27.33:924][846]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [SkinnedAsset] anyway! RequiredMemory = 0.000 MiB + 4608.000 MiB, MemoryLimit = 4258.9375 MiB 
+[2026.10.29-06.27.33:924][846]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [SkinnedAsset] anyway! RequiredMemory = 0.000 MiB + 4608.000 MiB, MemoryLimit = 4258.9375 MiB 
+[2026.10.29-06.27.37:193][ 28]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic:PersistentLevel.VehicleBasic
+[2026.10.29-06.28.49:220][721]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic:PersistentLevel.VehicleBasic'
+[2026.10.29-06.28.49:287][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.10.29-06.28.55:501][ 91]LogSlate: Window 'VehicleBasic' being destroyed
+[2026.10.29-06.28.55:534][ 91]LogSlate: Window 'VehicleBasic' being destroyed
+[2026.10.29-06.28.55:542][ 91]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.28.55:542][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.28.55:621][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2026.10.29-06.28.57:779][224]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.29-06.28.57:789][224]LogContentBundle: [VehicleBasic(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.10.29-06.28.57:789][224]LogWorldPartition: Display: GenerateStreaming for 'VehicleBasic' started...
+[2026.10.29-06.28.57:790][224]LogWorldPartition: Display: GenerateStreaming for 'VehicleBasic' took 819 us (total: 10.497 ms)
+[2026.10.29-06.28.57:790][224]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.29-06.28.57:791][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.29-06.28.57:791][224]LogPlayLevel: Creating play world package: /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleBasic
+[2026.10.29-06.28.57:907][224]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.10.29-06.28.57:917][224]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.992 ms (total: 111.423 ms)
+[2026.10.29-06.28.57:917][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126297s)
+[2026.10.29-06.28.57:917][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic to /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleBasic.VehicleBasic (0.126346s)
+[2026.10.29-06.28.57:950][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.10.29-06.28.57:953][224]LogChaosDD: Creating Chaos Debug Draw Scene for world VehicleBasic
+[2026.10.29-06.28.57:955][224]LogWorldPartition: ULevel::OnLevelLoaded(VehicleBasic)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.10.29-06.28.57:955][224]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.10.29-06.28.57:955][224]LogWorldPartition: UWorldPartition::Initialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleBasic.VehicleBasic, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.10.29-06.28.57:955][224]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.10.29-06.28.57:964][224]LogWorldPartition: Display: WorldPartition initialize took 9.653 ms (total: 346.280 ms)
+[2026.10.29-06.28.57:964][224]LogPlayLevel: PIE: World Init took: (0.012225s)
+[2026.10.29-06.28.57:964][224]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.10.29-06.28.57:964][224]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.29-06.28.57:964][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-06.28.57:965][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-06.28.57:965][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-06.28.57:965][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-06.28.57:965][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.29-06.28.57:965][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-06.28.57:965][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.29-06.28.57:965][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-06.28.57:965][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-06.28.57:965][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-06.28.57:965][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-06.28.57:965][224]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.29-06.28.57:973][224]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Razer Barracuda X (BT))'
+[2026.10.29-06.28.57:974][224]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Headset (Razer Barracuda X (BT))'
+[2026.10.29-06.28.57:976][224]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Razer Barracuda X (BT))'
+[2026.10.29-06.28.57:977][224]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Headset (Razer Barracuda X (BT))'
+[2026.10.29-06.28.57:978][224]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Razer Barracuda X (BT))'
+[2026.10.29-06.28.57:979][224]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Headset (Razer Barracuda X (BT))'
+[2026.10.29-06.28.57:984][224]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.29-06.28.57:984][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.29-06.28.57:984][224]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.29-06.28.57:985][224]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.29-06.28.57:985][224]LogAudioMixerWasapi: Warning: Sample rate mismatch. Engine sample rate: 48000 Device sample rate: 44100
+[2026.10.29-06.28.57:985][224]LogAudioMixerWasapi: Warning: Device level sample rate conversion will be used.
+[2026.10.29-06.28.57:989][224]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.29-06.28.57:989][224]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.29-06.28.57:989][224]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.29-06.28.57:989][224]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Razer Barracuda X (BT))
+[2026.10.29-06.28.57:990][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-06.28.57:990][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-06.28.57:990][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-06.28.57:990][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.10.29-06.28.57:993][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.10.29-06.28.57:995][224]LogInit: FAudioDevice initialized with ID 13.
+[2026.10.29-06.28.57:995][224]LogAudio: Display: Audio Device (ID: 13) registered with world 'VehicleBasic'.
+[2026.10.29-06.28.57:995][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.29-06.28.57:996][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.28.57:999][224]LogLoad: Game class is 'GM_KartTest_C'
+[2026.10.29-06.28.58:003][224]LogWorld: Bringing World /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleBasic.VehicleBasic up for play (max tick rate 0) at 2026.10.28-23.28.58
+[2026.10.29-06.28.58:003][224]LogWorld: Bringing up level for play took: 0.004183
+[2026.10.29-06.28.58:006][224]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.10.29-06.28.58:007][224]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.29-06.28.58:009][224]PIE: Server logged in
+[2026.10.29-06.28.58:011][224]PIE: Play in editor total start time 0.223 seconds.
+[2026.10.29-06.29.03:654][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.29.03:655][417]LogWorld: BeginTearingDown for /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleBasic
+[2026.10.29-06.29.03:655][417]LogWorld: UWorld::CleanupWorld for VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-06.29.03:655][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.29.03:657][417]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/UEDPIE_0_VehicleBasic.VehicleBasic
+[2026.10.29-06.29.03:667][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.29-06.29.03:677][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-06.29.03:714][417]LogAudio: Display: Audio Device unregistered from world 'VehicleBasic'.
+[2026.10.29-06.29.03:715][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.29-06.29.03:715][417]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=13, StreamState=4
+[2026.10.29-06.29.03:722][417]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-06.29.03:726][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.29-06.29.03:731][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.10.29-06.29.03:800][418]LogPlayLevel: Display: Destroying online subsystem :Context_18

@@ -2293,3 +2293,73 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.29-03.40.41:325][427]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.29-03.41.47:959][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.10.29-03.41.48:002][ 68]LogStall: Shutdown...
+[2026.10.29-03.41.48:005][ 68]LogStall: Shutdown complete.
+[2026.10.29-03.41.48:014][ 68]LogSlate: Window 'Game4550 - Unreal Editor' being destroyed
+[2026.10.29-03.41.48:096][ 68]Cmd: QUIT_EDITOR
+[2026.10.29-03.41.48:096][ 69]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.29-03.41.48:101][ 69]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.29-03.41.48:101][ 69]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.29-03.41.48:101][ 69]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.29-03.41.48:104][ 69]LogWorld: UWorld::CleanupWorld for VehicleBasic, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-03.41.48:105][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-03.41.48:105][ 69]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/VehicleTemplate/Maps/VehicleBasic.VehicleBasic
+[2026.10.29-03.41.48:105][ 69]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.29-03.41.48:114][ 69]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.29-03.41.48:130][ 69]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.29-03.41.48:133][ 69]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.29-03.41.48:133][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.29-03.41.48:135][ 69]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.29-03.41.48:137][ 69]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.29-03.41.48:138][ 69]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.29-03.41.48:138][ 69]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.29-03.41.48:138][ 69]LogAudio: Display: Audio Device unregistered from world 'VehicleBasic'.
+[2026.10.29-03.41.48:138][ 69]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.29-03.41.48:138][ 69]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.29-03.41.48:148][ 69]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.29-03.41.48:172][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.29-03.41.48:172][ 69]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.29-03.41.48:177][ 69]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.10.29-03.41.48:183][ 69]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.29-03.41.48:184][ 69]LogExit: Preparing to exit.
+[2026.10.29-03.41.48:304][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.29-03.41.48:642][ 69]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.29-03.41.48:652][ 69]LogAssetRegistry: Display:   CachedAssetRegistry_0_B91DAC4F4CC2EE478BC9BC99697B9D7D.bin: deleted (orphaned, unreferenced by any .ref)
+[2026.10.29-03.41.48:652][ 69]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 2 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 1 orphans deleted, 0 orphans locked (kept)
+[2026.10.29-03.41.48:654][ 69]LogEditorDataStorage: Deinitializing
+[2026.10.29-03.41.48:655][ 69]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.29-03.41.48:655][ 69]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.29-03.41.48:655][ 69]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.29-03.41.48:655][ 69]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.29-03.41.48:656][ 69]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.29-03.41.48:656][ 69]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.29-03.41.48:788][ 69]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.29-03.41.48:800][ 69]LogExit: Editor shut down
+[2026.10.29-03.41.48:801][ 69]LogExit: Transaction tracking system shut down
+[2026.10.29-03.41.48:841][ 69]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.29-03.41.48:841][ 69]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.29-03.41.48:845][ 69]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.29-03.41.48:845][ 69]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.29-03.41.48:896][ 69]LogExit: Object subsystem successfully closed.
+[2026.10.29-03.41.48:911][ 69]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.10.29-03.41.48:963][ 69]LogObjectProfiler: Shutdown
+[2026.10.29-03.41.48:963][ 69]LogMemoryProfiler: Shutdown
+[2026.10.29-03.41.48:963][ 69]LogNetworkingProfiler: Shutdown
+[2026.10.29-03.41.48:963][ 69]LogLoadingProfiler: Shutdown
+[2026.10.29-03.41.48:963][ 69]LogTimingProfiler: Shutdown
+[2026.10.29-03.41.48:963][ 69]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.29-03.41.48:963][ 69]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.29-03.41.48:963][ 69]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.10.29-03.41.48:963][ 69]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.10.29-03.41.48:963][ 69]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.10.29-03.41.49:578][ 69]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.29-03.41.49:583][ 69]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.29-03.41.49:588][ 69]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.29-03.41.49:588][ 69]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1401557A-484C-B42F-FC1E-38B31E8AEC78%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.2-56702186%2B%2B%2BUE5%2BRelease-5.8&UserID=9d79f8364ada9f47307973b1894febc6%7C9b7789d80f8a47448140e811859723bc%7C7e5fe026-5cdb-4968-a53c-6ef2ead8256a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.29-03.41.50:158][ 69]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.29-03.41.50:158][ 69]RenderDocPlugin: plugin has been unloaded.
+[2026.10.29-03.41.50:159][ 69]LogPakFile: Destroying PakPlatformFile
+[2026.10.29-03.41.50:311][ 69]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.29-03.41.50:358][ 69]LogExit: Exiting.
+[2026.10.29-03.41.50:369][ 69]Log file closed, 10/28/26 20:41:50

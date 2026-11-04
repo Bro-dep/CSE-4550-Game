@@ -1,0 +1,154 @@
+[
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550Pawn.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550PlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550SportsCar.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550UI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550WheelFront.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Game4550WheelRear.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\OffroadCar\\Game4550OffroadCar.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\OffroadCar\\Game4550OffroadWheelFront.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\OffroadCar\\Game4550OffroadWheelRear.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\SportsCar\\Game4550SportsWheelFront.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\SportsCar\\Game4550SportsWheelRear.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Variant_OffRoad\\OffroadGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Variant_TimeTrial\\TimeTrialGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Variant_TimeTrial\\TimeTrialPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Variant_TimeTrial\\TimeTrialTrackGate.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Variant_TimeTrial\\UI\\TimeTrialStartUI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\Source\\Game4550\\Variant_TimeTrial\\UI\\TimeTrialUI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\miner\\Documents\\GitHub\\CSE-4550-Game\\Game4550\\.vscode\\compileCommands_Default\\Game4550.0.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.8\\Engine\\Source"
+	}
+]

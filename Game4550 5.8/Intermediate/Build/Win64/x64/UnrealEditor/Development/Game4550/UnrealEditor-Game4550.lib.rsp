@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-Game4550.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Esports/Documents/GitHub/CSE-4550-Game/Game4550 5.8/Intermediate/Build/Win64/x64/Game4550Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Esports/Documents/GitHub/CSE-4550-Game/Game4550 5.8/Intermediate/Build/Win64/x64/UnrealEditor/Development/Game4550/Module.Game4550.cpp.obj"
+/OUT:"C:/Users/Esports/Documents/GitHub/CSE-4550-Game/Game4550 5.8/Intermediate/Build/Win64/x64/UnrealEditor/Development/Game4550/UnrealEditor-Game4550.lib"
